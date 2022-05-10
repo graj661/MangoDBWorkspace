@@ -8,7 +8,7 @@ public class MangoDbWorkspaceApplication {
 
 //--main Application ui
 	public static void main(String[] args) {
-		System.out.println("111111111111111");
+		System.out.println("DUmmy");
 		SpringApplication.run(MangoDbWorkspaceApplication.class, args);
 	}
 
